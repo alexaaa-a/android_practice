@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">semestr</string>
+    <string name="country_flag">Флаг страны</string>
+    <string name="flag">Флаг</string>
+    <string name="countries">Страны</string>
+    <string name="settings">Настройки</string>
+    <string name="about">О приложении</string>
+    <string name="theme">Тема</string>
+    <string name="dark_mode">Тёмная тема</string>
+    <string name="language">Язык</string>
+    <string name="english">Английский</string>
+    <string name="russian">Русский</string>
+    <string name="github_github_com_alexaaaaa_a">GitHub: github.com/alexaaaaa-a</string>
+    <string name="developer_alexandra">Разработчик: Alexandra</string>
+    <string name="version_1_0">Версия: 1.0</string>
+    <string name="country_info_app">Приложение о странах</string>
+    <string name="capital">Столица: %1$s</string>
+    <string name="region">Регион: %1$s</string>
+    <string name="population">Население: %1$s</string>
+</resources>

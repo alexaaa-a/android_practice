@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">semestr</string>
+    <string name="country_flag">Country Flag</string>
+    <string name="flag">Flag</string>
+    <string name="countries">Countries</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="theme">Theme</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="russian">Русский</string>
+    <string name="github_github_com_alexaaaaa_a">GitHub: github.com/alexaaaaa-a</string>
+    <string name="developer_alexandra">Developer: Alexandra</string>
+    <string name="version_1_0">Version: 1.0</string>
+    <string name="country_info_app">Country Info App</string>
+    <string name="capital">Capital: %1$s</string>
+    <string name="region">Region: %1$s</string>
+    <string name="population">Population: %1$s</string>
+</resources>
